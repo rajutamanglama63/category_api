@@ -1,0 +1,24 @@
+.heading {
+  align-items: center;
+  margin: 5rem 0;
+}
+.detail {
+  margin: 0 auto;
+  width: 70%;
+  border: 1px solid rgb(245, 245, 66);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.info {
+  font-size: large;
+}
+.back {
+  padding: 5px;
+  background-color: rgb(43, 226, 141);
+  border: none;
+  cursor: pointer;
+  margin-left: 15%;
+  margin-top: 1rem;
+}
